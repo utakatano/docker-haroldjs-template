@@ -1,0 +1,13 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "description": "my-app",
+  "main": "index.js",
+  "scripts": {
+    "build": "harold-scripts build",
+    "start": "PORT=8000 harold-scripts start"
+  },
+  "devDependencies": {
+    "harold-scripts": "^0.3.2"
+  }
+}
